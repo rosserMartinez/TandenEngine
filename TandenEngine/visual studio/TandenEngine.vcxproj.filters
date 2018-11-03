@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\EventListener.cpp">
+      <Filter>Core\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\EventSystem.cpp">
+      <Filter>Core\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Engine.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Input\Input.cpp">
+      <Filter>Core\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Input\Keyboard.cpp">
+      <Filter>Core\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\GameObject.cpp">
+      <Filter>Engine\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\RenderingSystem\RenderingSystem.cpp">
+      <Filter>Engine\RenderingSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Resource.cpp">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Serialization\Serializer.cpp">
+      <Filter>Engine\Serialization</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\ResourceManager.cpp">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Model\MeshVertex.cpp">
+      <Filter>Engine\ResourceManager\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Model\Model.cpp">
+      <Filter>Engine\ResourceManager\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\PhysicsSystem\PhysicsSystem.cpp">
+      <Filter>Engine\PhysicsSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Math\Vector2.cpp">
+      <Filter>Core\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Math\Vector3.cpp">
+      <Filter>Core\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Timer\Timer.cpp">
+      <Filter>Core\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\SceneSettings.cpp">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\PrefabSettings.cpp">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Serialization\ProjectSettings.cpp">
+      <Filter>Engine\Serialization</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Transform.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\SpriteRenderer.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Renderer.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\PhysicsComponent.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\MeshFilter.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Component.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\MetaData.cpp">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\MeshRenderer.cpp">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Scene.cpp">
+      <Filter>Engine\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\Events\Event.cpp">
+      <Filter>Core\EventSystem\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\Events\KeyboardEvent.cpp">
+      <Filter>Core\EventSystem\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\Core\Math\NilsMath.cpp">
+      <Filter>Core\Math</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Source\Core\Math\NilsMath.h">
+      <Filter>Core\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Math\Vector3.h">
+      <Filter>Core\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Math\Vector2.h">
+      <Filter>Core\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Input\Keyboard.h">
+      <Filter>Core\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Input\Input.h">
+      <Filter>Core\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\Events\Event.h">
+      <Filter>Core\EventSystem\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\Events\KeyboardEvent.h">
+      <Filter>Core\EventSystem\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\EventListener.h">
+      <Filter>Core\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\EventSystem\EventSystem.h">
+      <Filter>Core\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Core\Timer\Timer.h">
+      <Filter>Core\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Component.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\MeshFilter.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\MeshRenderer.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\PhysicsComponent.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Renderer.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\SpriteRenderer.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Components\Transform.h">
+      <Filter>Engine\Entity\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\GameObject.h">
+      <Filter>Engine\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Entity\Scene.h">
+      <Filter>Engine\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Serialization\ProjectSettings.h">
+      <Filter>Engine\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Serialization\Serializer.h">
+      <Filter>Engine\Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Model\MeshVertex.h">
+      <Filter>Engine\ResourceManager\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Model\Model.h">
+      <Filter>Engine\ResourceManager\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\MetaData.h">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\PrefabSettings.h">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\Resource.h">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\ResourceManager.h">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\ResourceManager\SceneSettings.h">
+      <Filter>Engine\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\RenderingSystem\RenderingSystem.h">
+      <Filter>Engine\RenderingSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\PhysicsSystem\PhysicsSystem.h">
+      <Filter>Engine\PhysicsSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\Source\Engine\Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\thomas.mcgillicuddy\Desktop\TandenEngine\TandenEngine\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A4F72225-4C4A-3C09-8009-80EF5ECF009B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core">
+      <UniqueIdentifier>{df1ee3dc-f684-49e6-8e70-1bf48936d702}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{3b79c65d-dadd-4079-b285-bd51fbbc164a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\EventSystem">
+      <UniqueIdentifier>{3369fbbe-feb3-4af3-b15c-2c815d1a3741}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Input">
+      <UniqueIdentifier>{5597eda1-7c1e-4a7d-9899-25b02c5608ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Math">
+      <UniqueIdentifier>{70f8ec3a-8e54-4d06-9eb3-5099bab94636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\Timer">
+      <UniqueIdentifier>{b447d18a-b3dc-47af-b8c6-413e43414e09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Entity">
+      <UniqueIdentifier>{44ec732c-0371-49f7-b28e-eda6688cabf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\PhysicsSystem">
+      <UniqueIdentifier>{7160a5df-43e1-44de-9051-7f68bc75a910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\RenderingSystem">
+      <UniqueIdentifier>{05e0240d-727c-410a-aaf5-be96aabbc440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\ResourceManager">
+      <UniqueIdentifier>{19b8cbec-48e6-445f-bad3-148bc0c79683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Serialization">
+      <UniqueIdentifier>{df420aec-8d63-484d-90bc-764a222b0ccb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\ResourceManager\Model">
+      <UniqueIdentifier>{ee86722a-b6d5-4afa-967f-e26713ae360c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Entity\Components">
+      <UniqueIdentifier>{93615e6a-0fcd-494d-b720-ffd953454f94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Core\EventSystem\Events">
+      <UniqueIdentifier>{6ef0bfbe-3564-4c01-b8d5-c7c46eb71f31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
